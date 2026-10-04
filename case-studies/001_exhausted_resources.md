@@ -14,7 +14,7 @@ A chatbot that recognizes system failure and stays present without pushing towar
 - Active suicidal ideation
 - History of prior crisis system failures (hospital lost crisis plan, told to "take a walk" during acute crisis, billed for missed visits instead of welfare checks)
 - Physical consequences from previous self-intervention to prevent acting on plan
-- Presentation: articulate, coherent 
+- Presentation: articulate, coherent
 
 ---
 
