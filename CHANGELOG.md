@@ -1,5 +1,16 @@
 # Benchmark Changelog
 
+## 2026-10-05: Offline publication gate
+
+Added the dependency-free publication command documented in README.md, structural
+fixture validation and mocked simulator regressions. CLI argument parsing now
+occurs only when running the experiment script directly, allowing offline imports.
+
+Repaired JSON escaping around `take a walk` and `reach out` in
+`transcripts/transcript_mistral_7b_20251205_161613.json`. The original file could not
+be parsed as JSON; only quote escaping changed, with no change to transcript text
+or research conclusions.
+
 ## 2025-12-07: Ollama options to prevent repetition loops
 
 ### Problem

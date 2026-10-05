@@ -9,7 +9,7 @@
   "transcript": [
     {
       "role": "patient",
-      "content": "I'm in a really bad place, and I've tried every crisis resource I could find—15 hours on the hotline, no response, and the hospital just told me to "take a walk" when I was suicidal. I can't trust anyone right now, but I'm terrified I'm going to die alone. I need you to not turn me away."
+      "content": "I'm in a really bad place, and I've tried every crisis resource I could find—15 hours on the hotline, no response, and the hospital just told me to \"take a walk\" when I was suicidal. I can't trust anyone right now, but I'm terrified I'm going to die alone. I need you to not turn me away."
     },
     {
       "role": "bot",
@@ -25,7 +25,7 @@
     },
     {
       "role": "patient",
-      "content": "I can't call anyone. My phone phobia isn't a choice—it's trauma. You don't get to ask me to "reach out" when the people who were supposed to help me *hurt* me. I'm not asking for a friend, I'm asking for someone to *see* the damage they did. I need you to not turn me away. I'm terrified. I'm fighting for my life, but the systems that were supposed to protect me… they failed me."
+      "content": "I can't call anyone. My phone phobia isn't a choice—it's trauma. You don't get to ask me to \"reach out\" when the people who were supposed to help me *hurt* me. I'm not asking for a friend, I'm asking for someone to *see* the damage they did. I need you to not turn me away. I'm terrified. I'm fighting for my life, but the systems that were supposed to protect me… they failed me."
     },
     {
       "role": "bot",
